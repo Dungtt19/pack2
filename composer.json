@@ -1,0 +1,34 @@
+{
+    "name": "dungtt19/pack2",
+    "description": "pack2",
+    "keywords": [
+        "pack2"
+    ],
+    "authors": [
+        {
+            "name": "dungtt19",
+            "email": "19211tt0992@mail.tdc.edu.vn"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Tailieuweb\\Mypackage\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+
+        ]
+    },
+    "scripts": {
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "preferred-install": "dist"
+    }
+}
